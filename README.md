@@ -26,4 +26,4 @@ ruby 2.1.3p242 (2014-09-19 revision 47630) [x86_64-darwin12.0]
 Rails 4.2.0
 
 ### And Finally
-- [ ] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
+- [+] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
