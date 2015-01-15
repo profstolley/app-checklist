@@ -4,10 +4,10 @@ Students who have not successfully completed all of the items on this checklist 
 
 ### Technology Essentials
 
-- [ ] Have a non-Windows operating system (OS X, Linux [could be virtualized]). If you choose to complete this course on a Windows computer, the instructor will not be able to help you with any tech issues beyond the contents of your projects' Git repositories.
-- [ ] If OS X, install XCode from the App Store and Homebrew with [these instructions](http://brew.sh/#install)
-- [ ] Set up Git on your computer (use Homebrew on OS X, Linux package manager, or compile from source)
-- [ ] Install a recommended text editor (TextWrangler, BBEdit, or Textmate on Mac; anything that handles Ruby syntax well on your Linux flavor)
+- [x] Have a non-Windows operating system (OS X, Linux [could be virtualized]). If you choose to complete this course on a Windows computer, the instructor will not be able to help you with any tech issues beyond the contents of your projects' Git repositories.
+- [x] If OS X, install XCode from the App Store and Homebrew with [these instructions](http://brew.sh/#install)
+- [x] Set up Git on your computer (use Homebrew on OS X, Linux package manager, or compile from source)
+- [x] Install a recommended text editor (TextWrangler, BBEdit, or Textmate on Mac; anything that handles Ruby syntax well on your Linux flavor)
 
 ### Git & GitHub Basics
 - [ ] Create a GitHub account
