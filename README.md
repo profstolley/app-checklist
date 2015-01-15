@@ -10,14 +10,14 @@ Students who have not successfully completed all of the items on this checklist 
 - [x] Install a recommended text editor (TextWrangler, BBEdit, or Textmate on Mac; anything that handles Ruby syntax well on your Linux flavor)
 
 ### Git & GitHub Basics
-- [ ] Create a GitHub account
-- [ ] Create a new Git repo on your computer
-- [ ] Push the repo and paste its Web URL on GitHub here:
-- [ ] On GitHub, fork the GitHub repository for the Technology Checklist
-- [ ] Clone your Technology Checklist fork to your computer
-- [ ] Create and checkout a branch with your name, e.g., `git checkout -b karl`
-- [ ] Manipulate this `README.md` Markdown file & commit the changes
-- [ ] Push the changes you commit back up to GitHub until you’ve completed the Technology Checklist
+- [x] Create a GitHub account
+- [x] Create a new Git repo on your computer
+- [x] Push the repo and paste its Web URL on GitHub here: (hope this is acceptable, it's one of my repositories from com530) https://github.com/thedanmartin/expanded-web-presence
+- [x] On GitHub, fork the GitHub repository for the Technology Checklist
+- [x] Clone your Technology Checklist fork to your computer
+- [x] Create and checkout a branch with your name, e.g., `git checkout -b karl` (branch is "dpm")
+- [x] Manipulate this `README.md` Markdown file & commit the changes
+- [x] Push the changes you commit back up to GitHub until you’ve completed the Technology Checklist
 
 ### Ruby & Rails Setup
 - [ ] Install Ruby 2 under RVM; run `ruby -v` and paste the output here:
