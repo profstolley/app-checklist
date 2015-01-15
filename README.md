@@ -275,4 +275,4 @@ Installing ri documentation for rails-4.2.0
 ontime:app-checklist rachelrolland$
 
 ### And Finally
-- [ ] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
+- [x] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
