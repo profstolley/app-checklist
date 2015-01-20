@@ -1,6 +1,6 @@
 Technology Checklist
 
-Students who have not successfully completed all of the items on this checklist by Friday, 22 January **must** withdraw from the course.
+Students who have not successfully completed all of the items on this checklist by Friday, 23 January **must** withdraw from the course.
 
 ### Technology Essentials
 
