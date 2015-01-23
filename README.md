@@ -26,4 +26,4 @@ Students who have not successfully completed all of the items on this checklist 
 
 
 ### And Finally
-- [ ] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
+- [x] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here: https://github.com/profstolley/app-checklist/pull/6
