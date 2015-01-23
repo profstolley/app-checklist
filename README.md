@@ -17,7 +17,7 @@ Students who have not successfully completed all of the items on this checklist 
 - [x] Clone your Technology Checklist fork to your computer
 - [x] Create and checkout a branch with your name, e.g., `git checkout -b karl`
 - [x] Manipulate this `README.md` Markdown file & commit the changes
-- [ ] Push the changes you commit back up to GitHub until you’ve completed the Technology Checklist
+- [x] Push the changes you commit back up to GitHub until you’ve completed the Technology Checklist
 
 ### Ruby & Rails Setup
 - [x] Install Ruby 2 under RVM; run `ruby -v` and paste the output here: ruby 2.2.0p0 (2014-12-25 revision 49005) [i686-linux]
