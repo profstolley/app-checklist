@@ -12,7 +12,7 @@ Students who have not successfully completed all of the items on this checklist 
 ### Git & GitHub Basics
 - [ ] Create a GitHub account
 - [ ] Create a new Git repo on your computer
-- [ ] Push the repo and paste its Web URL on GitHub here:
+- [ ] Push the repo and paste its Web URL on GitHub here:https://github.com/YishanHuang/App.git
 - [ ] On GitHub, fork the GitHub repository for the Technology Checklist
 - [ ] Clone your Technology Checklist fork to your computer
 - [ ] Create and checkout a branch with your name, e.g., `git checkout -b karl`
@@ -21,7 +21,9 @@ Students who have not successfully completed all of the items on this checklist 
 
 ### Ruby & Rails Setup
 - [ ] Install Ruby 2 under RVM; run `ruby -v` and paste the output here:
+    ruby 2.2.0p0 (2014-12-25 revision 49005) [x86_64-darwin14]
 - [ ] Install Rails 4 via `gem install rails`; run `rails -v` and paste the output here:
-
+    Rails 4.2.0
+       
 ### And Finally
 - [ ] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
