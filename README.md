@@ -20,8 +20,8 @@ Students who have not successfully completed all of the items on this checklist 
 - [X] Push the changes you commit back up to GitHub until you’ve completed the Technology Checklist
 
 ### Ruby & Rails Setup
-- [ ] Install Ruby 2 under RVM; run `ruby -v` and paste the output here:
-- [ ] Install Rails 4 via `gem install rails`; run `rails -v` and paste the output here:
+- [] Install Ruby 2 under RVM; run `ruby -v` and paste the output here:
+- [] Install Rails 4 via `gem install rails`; run `rails -v` and paste the output here:
 
 ### And Finally
 - [ ] Create a pull request on GitHub from the branch of your name on your fork to the original Technology Checklist repository’s `master` branch; paste the pull-request URL here:
